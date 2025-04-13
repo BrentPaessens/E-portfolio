@@ -7,7 +7,7 @@
     </section>
 
     <!-- Main Content Area -->
-    <section class="bg-white py-12">
+    <section class="py-12">
         <div class="container mx-auto px-4 max-w-6xl">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 ">
                 <!-- Why did I choose Application & AI? -->
