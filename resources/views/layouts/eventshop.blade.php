@@ -11,7 +11,7 @@
 </head>
 
 <body class="font-sans antialiased">
-<div class="flex flex-col space-y-0 min-h-screen text-gray-800 bg-gray-100">
+<div class="flex flex-col  min-h-screen text-gray-800 bg-gray-100">
 
     {{--  Navigation  --}}
     <header class="bg-white/70 sticky inset-0 backdrop-blur-sm z-10">
