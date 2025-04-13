@@ -4,10 +4,10 @@ use App\Http\Middleware\ActiveUser;
 
 use Illuminate\Support\Facades\Route;
 
-// Users
+// Routes
 Route::view('/', 'home')->name('home');
 Route::view('about','about')->name('about');
-Route::view('project', 'project')->name('projects');
+Route::view('project', 'projects')->name('projects');
 
 // checking if the user is authenticated, verified and active
 Route::middleware([

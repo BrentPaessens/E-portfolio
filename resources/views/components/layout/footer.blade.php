@@ -17,8 +17,8 @@
                 <div>
                     <h4 class="font-bold">Social Media</h4>
                     <ul class="mt-2 space-y-2">
-                        <li><a href="#"><x-phosphor-instagram-logo class="w-6 h-6"/></a></li>
-                        <li><a href="#"><x-phosphor-linkedin-logo class="w-6 h-6"/></a></li>
+                        <li><a href="https://www.instagram.com/_brent_paessens/"><x-phosphor-instagram-logo class="w-6 h-6"/></a></li>
+                        <li><a href="https://www.linkedin.com/in/brent-paessens/"><x-phosphor-linkedin-logo class="w-6 h-6"/></a></li>
                     </ul>
                 </div>
             </div>
